@@ -1,5 +1,5 @@
 nav:
   - Main Page: README.md
-  - About me: docs/aboutme.md
-  - Student Agreement: docs/placeholder.md
+  - About me: about/aboutme.md
+  - Student Agreement: about/placeholder.md
   - New site from template: https://github.com/cal-itp/mkdocs-template/generate
