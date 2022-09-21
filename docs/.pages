@@ -1,4 +1,5 @@
 nav:
-  - Getting started: README.md
-  - Running locally: running-locally.md
+  - Main Page: README.md
+  - About me: aboutme.md
+  - About me: placeholder.md
   - New site from template: https://github.com/cal-itp/mkdocs-template/generate
