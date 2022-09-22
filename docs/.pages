@@ -1,6 +1,6 @@
 nav:
   - Main Page: README.md
-  - about
+  - ...
   - aboutme.md
   - placeholder.md
   - New site from template: https://github.com/cal-itp/mkdocs-template/generate
